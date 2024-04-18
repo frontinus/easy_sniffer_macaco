@@ -1,6 +1,6 @@
 {
     "connection_info":{
-        "vulnbox_ip": "IP_YOUR_VIRTUAL_MACHINE",
+        "vulnbox_ip": "46.101.143.135",
         "vulnbox_port" : 22,
         "user" : "root",
         "ssh_key" : "YOUR_SSH_KEY"
@@ -8,7 +8,7 @@
     },
     "tcpdump_info": {
         "interface" : "any",
-        "remote_pcap_folder" : "",
+        "remote_pcap_folder" : "root/traffic",
         "local_pcap_folder" : "",
         "max_packets" : 500,
         "max_size" : 1,
